@@ -20,9 +20,9 @@ The examples from the paper:
 
 + Install
 
-    conda install pytorch==0.1.12 torchvision==0.1.8 cuda90 -c pytorch
-    or
-    merge pull request
+    conda install pytorch==0.1.12 torchvision==0.1.8 cuda90 -c pytorch    
+    or    
+    merge pull request    
     https://github.com/mrzhu-cool/pix2pix-pytorch/pull/8
     
 
